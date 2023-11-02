@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81118062932",
+    "project_id": "ocean-graphics-magazine",
+    "storage_bucket": "ocean-graphics-magazine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81118062932:android:528f064ab8fb2edfe540c1",
+        "android_client_info": {
+          "package_name": "com.ocean.graphics.magazine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLvUIbXS5ATQTIyNu3ZmnNx9iGC9JbOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
